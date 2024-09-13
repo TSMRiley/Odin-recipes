@@ -4,7 +4,7 @@
 }
 .title {
     color: blueviolet;
-    font-family: "Lucida Sans", Georgia;
+    font-family: impact , "Lucida Sans", Georgia;
     font:bold;
     font-size: 32px;
     text-align: center;
@@ -28,6 +28,7 @@
 .b {
     color:black;
     font-size: 35px;
+    font-family: 'Franklin Gothic Medium', Arial, sans-serif;
     height: 100px;
     width:auto
 }
