@@ -8,6 +8,7 @@
     font:bold;
     font-size: 32px;
     text-align: center;
+    text-decoration: underline;
 }
 
 .subtitle {
@@ -15,6 +16,7 @@
     font:bold;
     text-align: center;
     color: purple;
+    text-decoration: underline;
 }
 
 .img {
@@ -23,9 +25,15 @@
     width: auto;
 }
 
-#links {
+.b {
     color:black;
-    font-size: 40px;
+    font-size: 35px;
+    height: 100px;
+    width:auto
+}
+.links .b{
+    display: block;
+    margin: center;
 }
 
 
