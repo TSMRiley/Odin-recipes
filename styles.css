@@ -1,9 +1,14 @@
 
-*{
+body{
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
     background-image: linear-gradient(pink, antiquewhite);
+    background-attachment: fixed;
 }
+
 .title {
-    color: blueviolet;
+    color: rgb(83, 4, 158);
     font-family: impact , "Lucida Sans", Georgia;
     font:bold;
     font-size: 32px;
@@ -26,16 +31,19 @@
 }
 
 .links .b {
-    color:black;
     font-size: 35px;
-    font-family: 'Franklin Gothic Medium', Arial, sans-serif;
-    height: 100px;
-    width:auto
+    font-family:'Times New Roman', Times, serif;
+    height: 120px;
+    width:15cm;
+    margin: 10px;
+    background-color: rgb(255,241,202);
+    border-radius: 50px;
 }
 
 .links {
     display: block;
-    margin: center;
+    margin: 2cm;
+    padding: 2em;
 }
 
 
