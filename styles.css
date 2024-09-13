@@ -25,14 +25,15 @@
     width: auto;
 }
 
-.b {
+.links .b {
     color:black;
     font-size: 35px;
     font-family: 'Franklin Gothic Medium', Arial, sans-serif;
     height: 100px;
     width:auto
 }
-.links .b{
+
+.links {
     display: block;
     margin: center;
 }
