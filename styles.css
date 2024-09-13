@@ -1,0 +1,26 @@
+
+*{
+    background-image: linear-gradient(pink, antiquewhite);
+}
+.title {
+    color: blueviolet;
+    font-family: "Lucida Sans", Georgia;
+    font:bold;
+    font-size: 32px;
+    text-align: center;
+}
+
+.subtitle {
+    font-family: "Lucida Sans", Georgia;
+    font:bold;
+    text-align: center;
+    color: purple;
+}
+
+#links {
+    color:black;
+    font-size: 40px;
+}
+
+
+
