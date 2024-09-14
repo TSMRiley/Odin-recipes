@@ -9,9 +9,9 @@ body{
 
 .title {
     color: rgb(83, 4, 158);
-    font-family: impact , "Lucida Sans", Georgia;
+    font-family: 'Times New Roman', Times, serif;
     font:bold;
-    font-size: 32px;
+    font-size: 36px;
     text-align: center;
     text-decoration: underline;
 }
@@ -21,7 +21,6 @@ body{
     font:bold;
     text-align: center;
     color: purple;
-    text-decoration: underline;
 }
 
 .img {
@@ -44,6 +43,11 @@ body{
     display: block;
     margin: 2cm;
     padding: 2em;
+}
+
+.hbutton{
+    background-image: linear-gradient(pink, antiquewhite);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 
