@@ -40,9 +40,8 @@ body{
 }
 
 .links {
-    display: block;
-    margin: 2cm;
-    padding: 2em;
+    margin-top: 4cm;
+    text-align: center;
 }
 
 .hbutton{
