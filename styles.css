@@ -1,10 +1,8 @@
 
 body{
-    margin: 0;
-    width: 100vw;
-    height: 100vh;
     background-image: linear-gradient(pink, antiquewhite);
     background-attachment: fixed;
+    display: inline;
 }
 
 .title {
@@ -29,19 +27,20 @@ body{
     width: auto;
 }
 
+.links {
+    margin-top: 4cm;
+    text-align: center;
+}
+
 .links .b {
     font-size: 35px;
     font-family:'Times New Roman', Times, serif;
     height: 120px;
-    width:15cm;
-    margin: 10px;
+    width: 550px;
+    margin: 20px;
     background-color: rgb(255,241,202);
     border-radius: 50px;
-}
-
-.links {
-    margin-top: 4cm;
-    text-align: center;
+    
 }
 
 .hbutton{
