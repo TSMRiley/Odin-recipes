@@ -48,5 +48,8 @@ body{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
+ol li{
+    margin: 15px;
+}
 
 
