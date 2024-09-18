@@ -2,6 +2,7 @@
 body{
     background-image: linear-gradient(pink, antiquewhite);
     background-attachment: fixed;
+    box-sizing: border-box;
     display: inline;
 }
 
@@ -40,7 +41,6 @@ body{
     margin: 20px;
     background-color: rgb(255,241,202);
     border-radius: 50px;
-    
 }
 
 .hbutton{
